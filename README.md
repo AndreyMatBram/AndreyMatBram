@@ -18,6 +18,8 @@ Bem-vindo ao meu GitHub! Sou um(a) desenvolvedor(a) apaixonado(a) por [área de 
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyMatBram&layout=compact&theme=dracula)
+
 ## 📁 Meus Projetos
 
 - 🔧 [**RPG_IaGeneration**]([https://github.com/AndreyMatBram/RPGIaGeneration]): Gera um Array de numeros para uma destribuiçao de estatisticas especificas do jogador.
@@ -27,8 +29,9 @@ Bem-vindo ao meu GitHub! Sou um(a) desenvolvedor(a) apaixonado(a) por [área de 
 
 ## 📫 Como me encontrar
 
-- 💌 Email: [brambillamatheusandrey@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/andrey-matheus-brambilla-b2037421a/]
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brambillamatheusandrey@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/andrey-matheus-brambilla-b2037421a/))
+
   
 ---
 
