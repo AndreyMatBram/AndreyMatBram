@@ -20,8 +20,8 @@ Bem-vindo ao meu GitHub! Sou um(a) desenvolvedor(a) apaixonado(a) por [área de 
 
 ## 📁 Meus Projetos
 
-- 🔧 [**RPG_IaGeneration**]((https://github.com/AndreyMatBram/RPGIaGeneration)): Gera um Array de numeros para uma destribuiçao de estatisticas especificas do jogador.
-- 🧠 [**Portifolio em Angular**]((https://github.com/AndreyMatBram/andreymatbram.github.io)): Um pequeno projeto em angular sem grande back-end para aprender o framework.
+- 🔧 [**RPG_IaGeneration**]([https://github.com/AndreyMatBram/RPGIaGeneration]): Gera um Array de numeros para uma destribuiçao de estatisticas especificas do jogador.
+- 🧠 [**Portifolio em Angular**]([https://github.com/AndreyMatBram/andreymatbram.github.io]): Um pequeno projeto em angular sem grande back-end para aprender o framework.
 
 > A maioria dos projetos aqui são focados em aprendizado e experimentação.
 
