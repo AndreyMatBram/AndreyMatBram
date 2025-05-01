@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Andrey
 
-Bem-vindo ao meu GitHub! Sou um(a) desenvolvedor(a) apaixonado(a) por [área de interesse: ex. desenvolvimento de jogos, back-end, ciência de dados], sempre buscando aprender coisas novas e criar soluções criativas.
+Bem-vindo ao meu GitHub! Sou um(a) desenvolvedor(a) apaixonado(a) por dados, ias e desenvolvimento, sempre buscando aprender coisas novas e criar soluções criativas.
 
 ## 🚀 Sobre mim
 
